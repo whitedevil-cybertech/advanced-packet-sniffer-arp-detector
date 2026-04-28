@@ -1,0 +1,17 @@
+# Virtualenvs
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs/artifacts
+logs/
+*.log
+*.csv
+
+# Packaging
+*.egg-info/
+dist/
+build/
